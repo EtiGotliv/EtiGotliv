@@ -14,13 +14,13 @@ I am a graduate of the Computer Science program at The Open University of Israel
 ## Projects
 
 ### Project 1: Assembler Implementation in C
-[Link to Repository](#)
+[Link to Repository](#https://github.com/EtiGotliv/Assembler-software-project)
 
 ### Project 2: Full-Stack People and Information Management System
-[Link to Repository](#)
+[Link to Repository](#https://github.com/EtiGotliv/ProjHadasim)
 
 ### Project 3: Practicum Project
-[Link to Repository](#)
+[Link to Repository](#https://github.com/YaelGluskin/Practicom-dbt/tree/dev)
 
 ## Connect with me
 <div align="center">
