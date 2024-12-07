@@ -1,5 +1,6 @@
 # Hello, I'm Eti
 
+A software developer with excellent interpersonal communication, a deep love for the field, self-learning at a high level, strategic thinking, the ability to work cooperatively and cope under pressure, a significant willingness to invest effort to develop and succeed.
 I am a graduate of the Computer Science program at The Open University of Israel.
 
 ## Programming Languages:
